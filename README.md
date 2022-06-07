@@ -1,2 +1,6 @@
-# bootcamp-santander-fullstack
-Primeiro repositório criado para realizar desafio de projeto da DIO e para futuros projetos do Bootcamp Santander Fullstack Developer
+# Bootcamp Santander Fullstack Primeiro Repositório
+ - Repositório para utilização durante Bootcamp Santander Fullstack Developer
+ - Criado para realizar desafio sobre Git/GitHub da DIO
+
+## Links Úteis
+[Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
