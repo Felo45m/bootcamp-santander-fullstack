@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pizza de Frango :chicken: 
 #### MASSA:
  -  1 xícara de leite 
@@ -31,3 +32,6 @@
  - Quando estiver cozido desfie e coloque na pizza.
  - Polvilhe orégano.
  - Asse no forno por 20 minuto a 280ºC.
+=======
+
+>>>>>>> 955aa1ae670709ce560c1aa7fc39ecfd2ad02f36
